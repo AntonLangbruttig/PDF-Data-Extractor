@@ -49,7 +49,7 @@ pip install pdfplumber pandas openpyxl
 3. Run the script:
 
 ```bash
-python extract_pdfs.py
+python extract_pdf.py
 ```
 
 ## Configuration
@@ -66,7 +66,7 @@ output_excel = "C:\\Users\\yourname\\Desktop\\combined_tasks_clean.xlsx"
 
 ```
 PDF-Data-Extractor/
-├── extract_pdfs.py    # Main extraction script
+├── extract_pdf.py    # Main extraction script
 └── README.md
 ```
 
